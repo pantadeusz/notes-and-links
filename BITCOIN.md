@@ -18,4 +18,4 @@
 
 # History and culture
 
-* [HODL term](https://bitcointalk.org/index.php?topic=375643.0) (CopyPaste version)[data/I_AM_HODLING.md]
+* [HODL term](https://bitcointalk.org/index.php?topic=375643.0) [CopyPaste version](data/I_AM_HODLING.md)
