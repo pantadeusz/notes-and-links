@@ -8,6 +8,7 @@
 
 * [Texas grid stabilization](https://twitter.com/chadeverett/status/1531837494840500224)
 * [Margot Paez - Bitcoin Mining and Energy](https://www.btcpolicy.org/articles/comment-to-the-white-house)
+* [Mining Bitcoin at home to stabilize grid](https://bitcoinmagazine.com/business/getting-paid-for-home-bitcoin-miner-energy)
 
 .
 # Twitts
