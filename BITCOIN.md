@@ -4,6 +4,10 @@
 
 * [About terminology in Bitcoin](https://dergigi.com/2022/06/27/the-words-we-use-in-bitcoin/)
 
+# Technology
+
+* [Proof of Transfer in Stacks](https://docs.stacks.co/docs/understand-stacks/proof-of-transfer)
+
 # Podcasts
 
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
