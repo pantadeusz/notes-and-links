@@ -1,5 +1,9 @@
 # Bitcoin notes
 
+# Informaiton
+
+* [About terminology in Bitcoin](https://dergigi.com/2022/06/27/the-words-we-use-in-bitcoin/)
+
 # Podcasts
 
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
