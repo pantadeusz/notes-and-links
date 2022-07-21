@@ -18,7 +18,10 @@
 * [Margot Paez - Bitcoin Mining and Energy](https://www.btcpolicy.org/articles/comment-to-the-white-house)
 * [Mining Bitcoin at home to stabilize grid](https://bitcoinmagazine.com/business/getting-paid-for-home-bitcoin-miner-energy)
 
-.
+# Human rights
+
+* [www.financialinclusion.tech](https://www.financialinclusion.tech/)
+
 # Twitts
 
 * [Fake Defi wars on Bitcoin - OP_RETURN](https://twitter.com/notgrubles/status/1187470076833697794)
