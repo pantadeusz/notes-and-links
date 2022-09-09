@@ -19,10 +19,20 @@ Quite good results for ABS with the following settings on Cura 5
   * Outer wall 38
   * Inner Wall 100
   * Top bottom speed 38
-* Retraction distance 2
-* Retraction speed 25
-* Retraction retract speed 50
-* Retraction prime speed 25
-* Retraction minimal travel 3mm
-* Limit support retractions V
-*    
+* Retraction 
+  * Distance 2
+  * Speed 25
+  * Retract speed 50
+  * Prime speed 25
+  * Minimal travel 3mm
+  * Limit support retractions - yes
+  * Combing mode - All
+  * Retract outer wall - yes
+  * Avoid printed parts when traveling - yes
+  * Travel avoid distance - 1.5
+* Enable print cooling - no
+* Generate support - Tree, touching buildplate, overhang 50
+* Build plate adhesion - Brim
+* Enable coasting - yes
+
+This settings allowed for quite good printing of abs models.
