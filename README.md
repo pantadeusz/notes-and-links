@@ -5,3 +5,6 @@ My notes about interesting/important stuff
 
 
 [Stable Diffusion](https://twitter.com/StableDiffusion/status/1608661612776550401)
+
+
+[CLI Tools](https://www.youtube.com/watch?v=9QtJ6oo-QuY)
