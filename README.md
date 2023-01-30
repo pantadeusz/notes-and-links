@@ -7,4 +7,7 @@ My notes about interesting/important stuff
 [Stable Diffusion](https://twitter.com/StableDiffusion/status/1608661612776550401)
 
 
-[CLI Tools](https://www.youtube.com/watch?v=9QtJ6oo-QuY)
+[CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+
+
+[Big Brain](https://www.bigbraindaily.com/)
