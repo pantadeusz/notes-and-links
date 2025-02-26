@@ -9,6 +9,7 @@
 * [Proof of Transfer in Stacks](https://docs.stacks.co/docs/understand-stacks/proof-of-transfer)
 * [Big set of information about lightning network](https://wiki.ion.radar.tech/tutorials/nodes/lighting-at-home)
 * [BitVM](https://storopoli.com/blog/bitvm/)
+* [Test networks](https://velascommerce.com/bitcoin-test-networks-comparison-regtest-simnet-signet-testnet3-testnet4-and-mutinynet/)
 
 # Podcasts
 
